@@ -2,9 +2,9 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;;
 
-public class day1part1 {
+public class day1Part1 {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner input = new Scanner(new File("day1.txt"));
+        Scanner input = new Scanner(new File("day1Input.txt"));
         int currElfCalories = 0;
         int maxElfCalories = 0;
         while(input.hasNext()) {
