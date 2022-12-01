@@ -1,4 +1,4 @@
---- Day 1: Calorie Counting ---
+# --- Day 1: Calorie Counting ---
 
 Santa's reindeer typically eat regular reindeer food, but they need a lot of [magical energy](https://adventofcode.com/2018/day/25) to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
 
@@ -39,7 +39,7 @@ Find the Elf carrying the most Calories. How many total Calories is that Elf car
 
 Your puzzle answer was 75501.
 
---- Part Two ---
+# --- Part Two ---
 
 By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually run out of snacks.
 
