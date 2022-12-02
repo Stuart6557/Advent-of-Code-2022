@@ -14,11 +14,12 @@ public class day3Part2 {
     private static final String INPUT_FILE = "";
 
     /**
+     * Description
      * 
      * @param args not used
      * @throws FileNotFoundException if INPUT_FILE doesn't exist
      */
     public static void main(String[] args) throws FileNotFoundException {
-
+        Scanner input = new Scanner(new File(INPUT_FILE));
     }
 }
