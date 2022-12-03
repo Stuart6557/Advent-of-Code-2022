@@ -1,5 +1,5 @@
 /*
- * This file is for Advent of Code Day X
+ * This file is for Advent of Code Day 4
  */
 
 import java.util.Scanner;
@@ -7,11 +7,11 @@ import java.io.FileNotFoundException;
 import java.io.File;
 
 /**
- * This class is my solution for Day X Part X
+ * This class is my solution for Day 4 Part 2
  */
-public class dayXPartX {
+public class day4Part2 {
     /* Constants (Magic numbers) */
-    private static final String INPUT_FILE = "";
+    private static final String INPUT_FILE = "day4Input.txt";
 
     /**
      * Description
