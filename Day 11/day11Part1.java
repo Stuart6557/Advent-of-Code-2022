@@ -19,6 +19,7 @@ import java.util.ArrayList;
  *                   number to decide where to throw an item next
  * int trueMonkey - throws item to this monkey if test is true
  * int falseMonkey - throws item to this monkey if test is false
+ * int numInspections - number of items the monkey has inspected
  */
 public class day11Part1 {
     /* Constants (Magic numbers) */
